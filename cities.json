@@ -1,0 +1,117 @@
+[
+    {
+        "id": "2504",
+        "name": "Agadir",
+        "country_id": "148"
+    },
+    {
+        "id": "2505",
+        "name": "Casablanca",
+        "country_id": "148"
+    },
+    {
+        "id": "2506",
+        "name": "Chaouia-Ouardigha",
+        "country_id": "148"
+    },
+    {
+        "id": "2507",
+        "name": "Doukkala-Abda",
+        "country_id": "148"
+    },
+    {
+        "id": "2508",
+        "name": "Fes-Boulemane",
+        "country_id": "148"
+    },
+    {
+        "id": "2509",
+        "name": "Gharb-Chrarda-Beni Hssen",
+        "country_id": "148"
+    },
+    {
+        "id": "2510",
+        "name": "Guelmim",
+        "country_id": "148"
+    },
+    {
+        "id": "2511",
+        "name": "Kenitra",
+        "country_id": "148"
+    },
+    {
+        "id": "2512",
+        "name": "Marrakech-Tensift-Al Haouz",
+        "country_id": "148"
+    },
+    {
+        "id": "2513",
+        "name": "Meknes-Tafilalet",
+        "country_id": "148"
+    },
+    {
+        "id": "2514",
+        "name": "Oriental",
+        "country_id": "148"
+    },
+    {
+        "id": "2515",
+        "name": "Oujda",
+        "country_id": "148"
+    },
+    {
+        "id": "2516",
+        "name": "Province de Tanger",
+        "country_id": "148"
+    },
+    {
+        "id": "2517",
+        "name": "Rabat-Sale-Zammour-Zaer",
+        "country_id": "148"
+    },
+    {
+        "id": "2518",
+        "name": "Sala Al Jadida",
+        "country_id": "148"
+    },
+    {
+        "id": "2519",
+        "name": "Settat",
+        "country_id": "148"
+    },
+    {
+        "id": "2520",
+        "name": "Souss Massa-Draa",
+        "country_id": "148"
+    },
+    {
+        "id": "2521",
+        "name": "Tadla-Azilal",
+        "country_id": "148"
+    },
+    {
+        "id": "2522",
+        "name": "Tangier-Tetouan",
+        "country_id": "148"
+    },
+    {
+        "id": "2523",
+        "name": "Taza-Al Hoceima-Taounate",
+        "country_id": "148"
+    },
+    {
+        "id": "2524",
+        "name": "Wilaya de Casablanca",
+        "country_id": "148"
+    },
+    {
+        "id": "2525",
+        "name": "Wilaya de Rabat-Sale",
+        "country_id": "148"
+    },
+    {
+        "id": "2526",
+        "name": "Errachidia",
+        "country_id": "148"
+    }
+]
